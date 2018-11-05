@@ -1,0 +1,16 @@
+{
+  "name": "@mhy/test/typescript",
+  "version": "1.0.0",
+  "description": "",
+  "author": "wintercounter",
+  "license": "MIT",
+  "mhy": {
+    "ui": {
+      "root": {
+        "disabled": [
+          "storybook-start"
+        ]
+      }
+    }
+  }
+}
